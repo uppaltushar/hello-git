@@ -9,10 +9,10 @@ print(str1+str2)
 
 
 #3>
-x = int(input("enter the value "))
-y = int(input("enter the value "))
-z = int(input("enter the value "))
-print("x = ",x,"y = ",y,"z = ",z)
+p = int(input("enter  "))
+q = int(input("enter "))
+r = int(input("enter "))
+print("p = ",p,"q = ",q,"r = ",r)
 
 
 #4>
@@ -21,7 +21,7 @@ print("let's get started")
 #5>
 s = "Acadview"
 course = "python"
-fees = 500
+fees = 5000
 str1 = "{} {} course fee is {}".format(s,course,fees)
 print(str1)
 
